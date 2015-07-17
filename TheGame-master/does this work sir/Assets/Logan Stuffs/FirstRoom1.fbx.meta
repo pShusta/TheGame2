@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 4630f39d21abfe2479509b184da87a97
+timeCreated: 1435525880
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.002
+    100006: Cube.003
+    100008: Cylinder.000
+    100010: Cylinder.001
+    100012: Cylinder.002
+    100014: Cylinder.003
+    100016: Cylinder.005
+    100018: //RootNode
+    100020: Floor
+    100022: Floor.001
+    100024: Hall
+    100026: Hall.001
+    100028: Hall.002
+    100030: Hall.003
+    100032: Hub Hall
+    100034: Hub Hall.002
+    100036: L Hall
+    100038: L Hall.001
+    100040: Med Floor.001
+    100042: Pillar
+    100044: Square Hall
+    100046: Wall.000
+    100048: Wall.002
+    100050: Wall.006
+    100052: Wall.007
+    100054: Wall.008
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.002
+    400006: Cube.003
+    400008: Cylinder.000
+    400010: Cylinder.001
+    400012: Cylinder.002
+    400014: Cylinder.003
+    400016: Cylinder.005
+    400018: //RootNode
+    400020: Floor
+    400022: Floor.001
+    400024: Hall
+    400026: Hall.001
+    400028: Hall.002
+    400030: Hall.003
+    400032: Hub Hall
+    400034: Hub Hall.002
+    400036: L Hall
+    400038: L Hall.001
+    400040: Med Floor.001
+    400042: Pillar
+    400044: Square Hall
+    400046: Wall.000
+    400048: Wall.002
+    400050: Wall.006
+    400052: Wall.007
+    400054: Wall.008
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cylinder.000
+    2300010: Cylinder.001
+    2300012: Cylinder.002
+    2300014: Cylinder.003
+    2300016: Cylinder.005
+    2300018: Floor
+    2300020: Floor.001
+    2300022: Hall
+    2300024: Hall.001
+    2300026: Hall.002
+    2300028: Hall.003
+    2300030: Hub Hall
+    2300032: Hub Hall.002
+    2300034: L Hall
+    2300036: L Hall.001
+    2300038: Med Floor.001
+    2300040: Pillar
+    2300042: Square Hall
+    2300044: Wall.000
+    2300046: Wall.002
+    2300048: Wall.006
+    2300050: Wall.007
+    2300052: Wall.008
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cylinder.000
+    3300010: Cylinder.001
+    3300012: Cylinder.002
+    3300014: Cylinder.003
+    3300016: Cylinder.005
+    3300018: Floor
+    3300020: Floor.001
+    3300022: Hall
+    3300024: Hall.001
+    3300026: Hall.002
+    3300028: Hall.003
+    3300030: Hub Hall
+    3300032: Hub Hall.002
+    3300034: L Hall
+    3300036: L Hall.001
+    3300038: Med Floor.001
+    3300040: Pillar
+    3300042: Square Hall
+    3300044: Wall.000
+    3300046: Wall.002
+    3300048: Wall.006
+    3300050: Wall.007
+    3300052: Wall.008
+    4300000: Hall.003
+    4300002: Hall.002
+    4300004: Wall.008
+    4300006: Wall.007
+    4300008: Wall.006
+    4300010: Cylinder.003
+    4300012: Cylinder.001
+    4300014: Cylinder.000
+    4300016: Cylinder.005
+    4300018: Cylinder.002
+    4300020: L Hall.001
+    4300022: Hall.001
+    4300024: Floor.001
+    4300026: Cube
+    4300028: Cube.003
+    4300030: Cube.002
+    4300032: Cube.001
+    4300034: Square Hall
+    4300036: Hub Hall.002
+    4300038: Med Floor.001
+    4300040: Wall.000
+    4300042: L Hall
+    4300044: Hub Hall
+    4300046: Hall
+    4300048: Wall.002
+    4300050: Pillar
+    4300052: Floor
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
