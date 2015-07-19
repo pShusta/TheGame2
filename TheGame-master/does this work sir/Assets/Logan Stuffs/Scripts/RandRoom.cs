@@ -7,11 +7,21 @@ public class RandRoom : MonoBehaviour {
 
 	public int numToSpawn;
 	private int numSpawned = 0;
+	
+	private bool _spawned = false;
 
 	public Transform TempNode;
 
+	public GameObject Globals;
+
 	public GameObject[] SceneNodes;
 	public static GameObject[] myObjects;
+
+	void Awake(){
+		if(!PhotonNetwork.connected){
+			Globals.GetComponent<GlobalFunctions>().PhotonConnect();
+		}
+	}
 
 	void Start()
 	{		
@@ -159,10 +169,17 @@ public class RandRoom : MonoBehaviour {
 
 	void Update() 
 	{
-		if (numToSpawn > numSpawned) 
-		{
-			SpawnRandomObject ();
+		if(PhotonNetwork.isMasterClient){
+			if (numToSpawn > numSpawned) 
+			{
+				SpawnRandomObject ();
+			} else if ( !Globals.GetComponent<GlobalFunctions>().CheckReady() ) { Globals.GetComponent<GlobalFunctions>().SetReady(true); }
 		}
+		if(Globals.GetComponent<GlobalFunctions>().CheckReady() && _spawned == false) { 
+			Globals.GetComponent<GlobalFunctions>().SpawnPlayer();
+			_spawned = true;
+		}
+		
 	}
 
 }

@@ -1,8 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\avalonlordsgame\Avalon Lords\Assets\Scripts\Network\GameNetwork.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Logan Stuffs\Scripts\RandRoom.cs">
     <Files>
-      <File FileName="..\..\avalonlordsgame\Avalon Lords\Assets\Scripts\Network\GameNetwork.cs" Line="97" Column="28" />
+      <File FileName="Assets\Logan Stuffs\Scripts\RandRoom.cs" Line="25" Column="1" />
+      <File FileName="Assets\Scripts\GlobalFunctions.cs" Line="12" Column="2" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
