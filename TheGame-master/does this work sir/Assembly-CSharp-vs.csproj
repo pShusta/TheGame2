@@ -297,6 +297,7 @@
      <Compile Include="Assets\Scripts\UI\Inventory\TickUp.cs" />
      <Compile Include="Assets\Scripts\UI\MainMenu\Hover.cs" />
      <Compile Include="Assets\Scripts\UI\MainMenu\TitleScreenAnim.cs" />
+     <Compile Include="Assets\Scripts\UI\MainMenu\TitleScreenButton.cs" />
      <Compile Include="Assets\_IMPORTED\NGUI\Examples\Scripts\InventorySystem\Game\EquipItems.cs" />
      <Compile Include="Assets\_IMPORTED\NGUI\Examples\Scripts\InventorySystem\Game\EquipRandomItem.cs" />
      <Compile Include="Assets\_IMPORTED\NGUI\Examples\Scripts\InventorySystem\Game\UICursor.cs" />
