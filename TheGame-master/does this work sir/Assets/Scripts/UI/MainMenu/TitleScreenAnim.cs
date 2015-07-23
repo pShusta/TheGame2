@@ -12,7 +12,7 @@ private bool _animation = true;
 	void Start () {
 		_time = Time.time;
 	}
-	
+
 	void Update(){
 		if(_animation){
 			_newTime = Time.time;
