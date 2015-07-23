@@ -24,374 +24,697 @@ Platform assembly: C:\Users\Phil\Documents\GitHub\TheGame2\TheGame-master\does t
 Loading C:\Users\Phil\Documents\GitHub\TheGame2\TheGame-master\does this work sir\Version0.1_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
 Platform assembly: C:\Users\Phil\Documents\GitHub\TheGame2\TheGame-master\does this work sir\Version0.1_Data\Managed\Photon3Unity3D.dll (this message is harmless)
 Loading C:\Users\Phil\Documents\GitHub\TheGame2\TheGame-master\does this work sir\Version0.1_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
-Platform assembly: C:\Users\Phil\Documents\GitHub\TheGame2\TheGame-master\does this work sir\Version0.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Phil\Documents\GitHub\TheGame2\TheGame-master\does this work sir\Version0.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Phil\Documents\GitHub\TheGame2\TheGame-master\does this work sir\Version0.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Phil\Documents\GitHub\TheGame2\TheGame-master\does this work sir\Version0.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.122 seconds
+- Completed reload, in  0.094 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: C:\Users\Phil\Documents\GitHub\TheGame2\TheGame-master\does this work sir\Version0.1_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Phil\Documents\GitHub\TheGame2\TheGame-master\does this work sir\Version0.1_Data\Managed\System.dll (this message is harmless)
+Shader 'Nature/Terrain/Diffuse': dependency 'Details0' shader 'Hidden/TerrainEngine/Details/Vertexlit' not found
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 24b7c -> priority: 1 
+x: 1920 y: 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+x: 1920 y: 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+x: 1920 y: 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+x: 1920 y: 1080
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
 The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1715)
 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.569689 ms
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 662.
+Total: 1.860222 ms (FindLiveObjects: 0.049866 ms CreateObjectMapping: 0.033733 ms MarkObjects: 0.237111 ms  DeleteObjects: 1.533644 ms)
+
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: b6ec -> priority: 1 
+  Thread -> id: 2490c -> priority: 1 
 OnJoinedRoom: Room: 'FillerRoom-1' visible,open 1/0 players.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+1
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+It runs this
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 
-UnityException: Tag: Node is not defined.
-  at (wrapper managed-to-native) UnityEngine.GameObject:FindGameObjectsWithTag (string)
-  at RandRoom.SpawnRandomObject () [0x00000] in <filename unknown>:0 
-  at RandRoom.Update () [0x00000] in <filename unknown>:0 
+0
  
-(Filename:  Line: -1)
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+It runs this
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
 

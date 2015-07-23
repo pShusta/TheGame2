@@ -9,13 +9,26 @@ public GameObject[] OtherWords;
 public bool solo;
 public bool team;
 public bool quit;
+public float x, y;
 
-private float Wait;
+private float Wait, x2;
 private bool MoveOn = false;
+private RectTransform Trans;
 
 	// Use this for initialization
 	void Start () {
 		Wait = 0;
+		Trans = this.GetComponent<RectTransform>();
+		if(x < 0.3 ) {  
+			x2 = ((((float)Screen.width / (float)Screen.height) - (float)1.1) / (float)0.937) * (float)0.18;
+		} else if ( x > 0.6 ) { 
+			x2 = ((((float)Screen.width / (float)Screen.height) - (float)1.1) / (float)0.937) * (float)-0.175;
+			//Debug.Log ("> - " +(Screen.width / Screen.height / (float)1.77) * .039);
+		} else {
+			//x2 = 0;
+		}
+		Trans.position = new Vector3((Screen.width * (x + x2)), Screen.height * y, 0);
+		Debug.Log ("x: " + Screen.width + " y: " + Screen.height);
 	}
 	
 	// Update is called once per frame
