@@ -173,17 +173,20 @@ public class RandRoom : MonoBehaviour {
 	void CloseDoors()
 	{
 		int i = 0;
-		GameObject Door;
 		SceneNodes = GameObject.FindGameObjectsWithTag("Node");
 		UsedNodes = GameObject.FindGameObjectsWithTag ("Used Node");
-
+		Debug.Log ("Makes it to closeDoors function");
 		while (i < SceneNodes.Length) 
 		{
 			if(i < SceneNodes.Length)
 			{
+				Debug.Log ("Makes it to sceneNOdes if funct");
+
 				GameObject DoorChild = SceneNodes[i];
 				if (DoorChild.gameObject.tag == "Door")
 				{
+					Debug.Log ("Finds Door Node");
+
 					DoorChild.transform.Translate(0,10,0);
 				}
 
@@ -192,9 +195,13 @@ public class RandRoom : MonoBehaviour {
 
 			if(i < UsedNodes.Length)
 			{
+				Debug.Log ("Makes it to UsedNode if funct");
+
 				GameObject WallChild = UsedNodes[i];
 				if (WallChild.gameObject.tag == "Wall")
 				{
+					Debug.Log ("Finds wall Node");
+
 					WallChild.transform.Translate(0,10,0);
 
 				}
@@ -202,6 +209,7 @@ public class RandRoom : MonoBehaviour {
 
 				
 			}
+			i++;
 
 
 		}
