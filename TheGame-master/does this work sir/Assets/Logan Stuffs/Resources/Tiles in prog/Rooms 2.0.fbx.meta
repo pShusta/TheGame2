@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: fde5d728b455441449d59a08ebef8daf
+timeCreated: 1441595022
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cube.000
+    100002: DoorWay.000
+    100004: DoorWay.001
+    100006: DoorWay.002
+    100008: DoorWay.003
+    100010: Roof 0 arc.001
+    100012: //RootNode
+    100014: Wall Segment.000
+    100016: Wall Segment.001
+    100018: Wall Segment.002
+    100020: Wall Segment.003
+    100022: Wall Segment.004
+    100024: Wall Segment.005
+    100026: Wall Segment.006
+    100028: Wall Segment.014
+    400000: Cube.000
+    400002: DoorWay.000
+    400004: DoorWay.001
+    400006: DoorWay.002
+    400008: DoorWay.003
+    400010: Roof 0 arc.001
+    400012: //RootNode
+    400014: Wall Segment.000
+    400016: Wall Segment.001
+    400018: Wall Segment.002
+    400020: Wall Segment.003
+    400022: Wall Segment.004
+    400024: Wall Segment.005
+    400026: Wall Segment.006
+    400028: Wall Segment.014
+    2300000: Cube.000
+    2300002: DoorWay.000
+    2300004: DoorWay.001
+    2300006: DoorWay.002
+    2300008: DoorWay.003
+    2300010: Roof 0 arc.001
+    2300012: Wall Segment.000
+    2300014: Wall Segment.001
+    2300016: Wall Segment.002
+    2300018: Wall Segment.003
+    2300020: Wall Segment.004
+    2300022: Wall Segment.005
+    2300024: Wall Segment.006
+    2300026: Wall Segment.014
+    3300000: Cube.000
+    3300002: DoorWay.000
+    3300004: DoorWay.001
+    3300006: DoorWay.002
+    3300008: DoorWay.003
+    3300010: Roof 0 arc.001
+    3300012: Wall Segment.000
+    3300014: Wall Segment.001
+    3300016: Wall Segment.002
+    3300018: Wall Segment.003
+    3300020: Wall Segment.004
+    3300022: Wall Segment.005
+    3300024: Wall Segment.006
+    3300026: Wall Segment.014
+    4300000: Wall Segment.014
+    4300002: Wall Segment.004
+    4300004: DoorWay.003
+    4300006: DoorWay.001
+    4300008: Wall Segment.003
+    4300010: Wall Segment.002
+    4300012: Wall Segment.001
+    4300014: Wall Segment.000
+    4300016: DoorWay.000
+    4300018: DoorWay.002
+    4300020: Wall Segment.006
+    4300022: Wall Segment.005
+    4300024: Roof 0 arc.001
+    4300026: Cube.000
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

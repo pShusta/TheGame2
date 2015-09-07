@@ -13,8 +13,12 @@ public class RandRoom : MonoBehaviour {
 	public Transform TempNode;
 
 	public GameObject Globals;
+	public GameObject[] DoorNodes;
+	public GameObject[] WallNodes;
 
 	public GameObject[] SceneNodes;
+	public GameObject[] UsedNodes;
+
 	public static GameObject[] myObjects;
 
 	void Awake(){
@@ -166,6 +170,51 @@ public class RandRoom : MonoBehaviour {
 
 	}
 
+	void CloseDoors()
+	{
+		int i = 0;
+		GameObject Door;
+		SceneNodes = GameObject.FindGameObjectsWithTag("Node");
+		UsedNodes = GameObject.FindGameObjectsWithTag ("Used Node");
+
+		while (i < SceneNodes.Length) 
+		{
+			if(i < SceneNodes.Length)
+			{
+				GameObject DoorChild = SceneNodes[i];
+				if (DoorChild.gameObject.tag == "Door")
+				{
+					DoorChild.transform.Translate(0,10,0);
+				}
+
+
+			}
+
+			if(i < UsedNodes.Length)
+			{
+				GameObject WallChild = UsedNodes[i];
+				if (WallChild.gameObject.tag == "Wall")
+				{
+					WallChild.transform.Translate(0,10,0);
+
+				}
+
+
+				
+			}
+
+
+		}
+
+
+
+
+
+	}
+
+
+
+
 
 	void Update() 
 	{
@@ -179,6 +228,7 @@ public class RandRoom : MonoBehaviour {
 			Globals.GetComponent<GlobalFunctions>().SpawnPlayer();
 			_spawned = true;
 		}
+		CloseDoors ();
 		
 	}
 
