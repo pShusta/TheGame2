@@ -15,7 +15,9 @@ public class RandRoom : MonoBehaviour {
 	public GameObject Globals;
 	public GameObject[] DoorNodes;
 	public GameObject[] WallNodes;
+	public GameObject[] DeleteNodes;
 
+	
 	public GameObject[] SceneNodes;
 	public GameObject[] UsedNodes;
 
@@ -30,6 +32,7 @@ public class RandRoom : MonoBehaviour {
 	void Start()
 	{		
 		myObjects = Resources.LoadAll<GameObject>("Tiles");
+
 	}
 
 	void SpawnRandomObject() 
@@ -173,51 +176,46 @@ public class RandRoom : MonoBehaviour {
 	void CloseDoors()
 	{
 		int i = 0;
-		SceneNodes = GameObject.FindGameObjectsWithTag("Node");
-		UsedNodes = GameObject.FindGameObjectsWithTag ("Used Node");
-		Debug.Log ("Makes it to closeDoors function");
-		while (i < SceneNodes.Length) 
+
+		DoorNodes = GameObject.FindGameObjectsWithTag("Door");
+		WallNodes = GameObject.FindGameObjectsWithTag("Wall");
+
+
+		while (i < WallNodes.Length) 
+		{		
+			Transform ChildWall = WallNodes [i].transform;
+
+			if(ChildWall.parent.tag == "Used Node")
+			{
+				WallNodes[i].gameObject.tag = "Delete Me";
+			}
+		
+			i++;
+		
+		}
+		i = 0;
+
+		while (i < DoorNodes.Length) 
 		{
-			if(i < SceneNodes.Length)
+			Transform ChildDoor = DoorNodes [i].transform;
+
+			if(ChildDoor.parent.tag == "Node")
 			{
-				Debug.Log ("Makes it to sceneNOdes if funct");
-
-				GameObject DoorChild = SceneNodes[i];
-				if (DoorChild.gameObject.tag == "Door")
-				{
-					Debug.Log ("Finds Door Node");
-
-					DoorChild.transform.Translate(0,10,0);
-				}
-
-
+				DoorNodes[i].gameObject.tag = "Delete Me";
 			}
-
-			if(i < UsedNodes.Length)
-			{
-				Debug.Log ("Makes it to UsedNode if funct");
-
-				GameObject WallChild = UsedNodes[i];
-				if (WallChild.gameObject.tag == "Wall")
-				{
-					Debug.Log ("Finds wall Node");
-
-					WallChild.transform.Translate(0,10,0);
-
-				}
-
-
-				
-			}
+			
 			i++;
 
 
 		}
-
-
-
-
-
+		DeleteNodes = GameObject.FindGameObjectsWithTag("Delete Me");
+		for(int p = 0; p < DeleteNodes.Length; p++)
+		{
+			Destroy(DeleteNodes[p].gameObject);
+		}
+		
+		
+		
 	}
 
 
@@ -236,7 +234,8 @@ public class RandRoom : MonoBehaviour {
 			Globals.GetComponent<GlobalFunctions>().SpawnPlayer();
 			_spawned = true;
 		}
-		CloseDoors ();
+		if (numSpawned >= numToSpawn) 
+			CloseDoors ();
 		
 	}
 
