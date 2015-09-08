@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 64f8547b83d1f804096f768e5f5b4d77
+timeCreated: 1441684494
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cube.011
+    100002: DoorWay.005
+    100004: DoorWay.018
+    100006: DoorWay.020
+    100008: DoorWay.022
+    100010: DoorWay.023
+    100012: DoorWay.040
+    100014: DoorWay.041
+    100016: DoorWay.042
+    100018: DoorWay.043
+    100020: DoorWay.044
+    100022: DoorWay.045
+    100024: DoorWay.046
+    100026: DoorWay.047
+    100028: DoorWay.048
+    100030: DoorWay.049
+    100032: DoorWay.050
+    100034: DoorWay.051
+    100036: DoorWay.052
+    100038: DoorWay.053
+    100040: DoorWay.054
+    100042: Roof 2 arc.006
+    100044: Roof 2 arc.007
+    100046: Roof 2 arc.008
+    100048: Roof 2 arc.009
+    100050: //RootNode
+    100052: Wall Coner small.001
+    100054: Wall Coner small.002
+    100056: Wall Coner small.003
+    100058: Wall Coner small.004
+    100060: Wall Segment.053
+    100062: Wall Segment.054
+    100064: Wall Segment.056
+    100066: Wall Segment.057
+    100068: Wall Segment.058
+    100070: Wall Segment.059
+    100072: Wall Segment.060
+    100074: Wall Segment.061
+    100076: Wall Segment.062
+    100078: Wall Segment.063
+    100080: Wall Segment.064
+    100082: Wall Segment.065
+    100084: Wall Segment.066
+    100086: Wall Segment.067
+    100088: Wall Segment.068
+    100090: Wall Segment.069
+    100092: Wall Segment.070
+    100094: Wall Segment.071
+    100096: Wall Segment.072
+    100098: Wall Segment.073
+    400000: Cube.011
+    400002: DoorWay.005
+    400004: DoorWay.018
+    400006: DoorWay.020
+    400008: DoorWay.022
+    400010: DoorWay.023
+    400012: DoorWay.040
+    400014: DoorWay.041
+    400016: DoorWay.042
+    400018: DoorWay.043
+    400020: DoorWay.044
+    400022: DoorWay.045
+    400024: DoorWay.046
+    400026: DoorWay.047
+    400028: DoorWay.048
+    400030: DoorWay.049
+    400032: DoorWay.050
+    400034: DoorWay.051
+    400036: DoorWay.052
+    400038: DoorWay.053
+    400040: DoorWay.054
+    400042: Roof 2 arc.006
+    400044: Roof 2 arc.007
+    400046: Roof 2 arc.008
+    400048: Roof 2 arc.009
+    400050: //RootNode
+    400052: Wall Coner small.001
+    400054: Wall Coner small.002
+    400056: Wall Coner small.003
+    400058: Wall Coner small.004
+    400060: Wall Segment.053
+    400062: Wall Segment.054
+    400064: Wall Segment.056
+    400066: Wall Segment.057
+    400068: Wall Segment.058
+    400070: Wall Segment.059
+    400072: Wall Segment.060
+    400074: Wall Segment.061
+    400076: Wall Segment.062
+    400078: Wall Segment.063
+    400080: Wall Segment.064
+    400082: Wall Segment.065
+    400084: Wall Segment.066
+    400086: Wall Segment.067
+    400088: Wall Segment.068
+    400090: Wall Segment.069
+    400092: Wall Segment.070
+    400094: Wall Segment.071
+    400096: Wall Segment.072
+    400098: Wall Segment.073
+    2300000: Cube.011
+    2300002: DoorWay.005
+    2300004: DoorWay.018
+    2300006: DoorWay.020
+    2300008: DoorWay.022
+    2300010: DoorWay.023
+    2300012: DoorWay.040
+    2300014: DoorWay.041
+    2300016: DoorWay.042
+    2300018: DoorWay.043
+    2300020: DoorWay.044
+    2300022: DoorWay.045
+    2300024: DoorWay.046
+    2300026: DoorWay.047
+    2300028: DoorWay.048
+    2300030: DoorWay.049
+    2300032: DoorWay.050
+    2300034: DoorWay.051
+    2300036: DoorWay.052
+    2300038: DoorWay.053
+    2300040: DoorWay.054
+    2300042: Roof 2 arc.006
+    2300044: Roof 2 arc.007
+    2300046: Roof 2 arc.008
+    2300048: Roof 2 arc.009
+    2300050: Wall Coner small.001
+    2300052: Wall Coner small.002
+    2300054: Wall Coner small.003
+    2300056: Wall Coner small.004
+    2300058: Wall Segment.053
+    2300060: Wall Segment.054
+    2300062: Wall Segment.056
+    2300064: Wall Segment.057
+    2300066: Wall Segment.058
+    2300068: Wall Segment.059
+    2300070: Wall Segment.060
+    2300072: Wall Segment.061
+    2300074: Wall Segment.062
+    2300076: Wall Segment.063
+    2300078: Wall Segment.064
+    2300080: Wall Segment.065
+    2300082: Wall Segment.066
+    2300084: Wall Segment.067
+    2300086: Wall Segment.068
+    2300088: Wall Segment.069
+    2300090: Wall Segment.070
+    2300092: Wall Segment.071
+    2300094: Wall Segment.072
+    2300096: Wall Segment.073
+    3300000: Cube.011
+    3300002: DoorWay.005
+    3300004: DoorWay.018
+    3300006: DoorWay.020
+    3300008: DoorWay.022
+    3300010: DoorWay.023
+    3300012: DoorWay.040
+    3300014: DoorWay.041
+    3300016: DoorWay.042
+    3300018: DoorWay.043
+    3300020: DoorWay.044
+    3300022: DoorWay.045
+    3300024: DoorWay.046
+    3300026: DoorWay.047
+    3300028: DoorWay.048
+    3300030: DoorWay.049
+    3300032: DoorWay.050
+    3300034: DoorWay.051
+    3300036: DoorWay.052
+    3300038: DoorWay.053
+    3300040: DoorWay.054
+    3300042: Roof 2 arc.006
+    3300044: Roof 2 arc.007
+    3300046: Roof 2 arc.008
+    3300048: Roof 2 arc.009
+    3300050: Wall Coner small.001
+    3300052: Wall Coner small.002
+    3300054: Wall Coner small.003
+    3300056: Wall Coner small.004
+    3300058: Wall Segment.053
+    3300060: Wall Segment.054
+    3300062: Wall Segment.056
+    3300064: Wall Segment.057
+    3300066: Wall Segment.058
+    3300068: Wall Segment.059
+    3300070: Wall Segment.060
+    3300072: Wall Segment.061
+    3300074: Wall Segment.062
+    3300076: Wall Segment.063
+    3300078: Wall Segment.064
+    3300080: Wall Segment.065
+    3300082: Wall Segment.066
+    3300084: Wall Segment.067
+    3300086: Wall Segment.068
+    3300088: Wall Segment.069
+    3300090: Wall Segment.070
+    3300092: Wall Segment.071
+    3300094: Wall Segment.072
+    3300096: Wall Segment.073
+    4300000: DoorWay.054
+    4300002: Wall Segment.073
+    4300004: DoorWay.053
+    4300006: Wall Segment.072
+    4300008: Wall Segment.071
+    4300010: DoorWay.052
+    4300012: DoorWay.051
+    4300014: Wall Segment.070
+    4300016: Wall Segment.069
+    4300018: DoorWay.050
+    4300020: DoorWay.049
+    4300022: Wall Segment.068
+    4300024: Wall Segment.067
+    4300026: DoorWay.048
+    4300028: DoorWay.047
+    4300030: Wall Segment.066
+    4300032: Wall Segment.065
+    4300034: DoorWay.046
+    4300036: Wall Segment.064
+    4300038: DoorWay.045
+    4300040: DoorWay.044
+    4300042: Wall Segment.063
+    4300044: DoorWay.043
+    4300046: Wall Segment.062
+    4300048: Wall Segment.061
+    4300050: DoorWay.042
+    4300052: DoorWay.041
+    4300054: Wall Segment.060
+    4300056: Wall Segment.059
+    4300058: DoorWay.040
+    4300060: DoorWay.023
+    4300062: Wall Segment.058
+    4300064: Wall Segment.057
+    4300066: DoorWay.022
+    4300068: DoorWay.020
+    4300070: Wall Segment.056
+    4300072: Wall Segment.054
+    4300074: DoorWay.018
+    4300076: Wall Segment.053
+    4300078: DoorWay.005
+    4300080: Wall Coner small.004
+    4300082: Wall Coner small.003
+    4300084: Wall Coner small.002
+    4300086: Wall Coner small.001
+    4300088: Roof 2 arc.009
+    4300090: Roof 2 arc.008
+    4300092: Roof 2 arc.007
+    4300094: Roof 2 arc.006
+    4300096: Cube.011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
