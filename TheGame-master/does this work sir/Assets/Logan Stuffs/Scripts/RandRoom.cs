@@ -17,23 +17,25 @@ public class RandRoom : MonoBehaviour {
 	public GameObject[] WallNodes;
 	public GameObject[] DeleteNodes;
 
-	
+
 	public GameObject[] SceneNodes;
 	public GameObject[] UsedNodes;
 
 	public static GameObject[] myObjects;
 
+	/*
 	void Awake(){
-		if(!PhotonNetwork.connected){
-			Globals.GetComponent<GlobalFunctions>().PhotonConnect();
+		if (!PhotonNetwork.connected) {
+			Globals.GetComponent<GlobalFunctions> ().PhotonConnect ();
 		}
 	}
 
-	void Start()
-	{		
-		myObjects = Resources.LoadAll<GameObject>("Tiles");
+*/
 
-	}
+
+
+
+	
 
 	void SpawnRandomObject() 
 	{    
@@ -222,6 +224,37 @@ public class RandRoom : MonoBehaviour {
 
 
 
+	void Start()
+	{	
+		//keep this in start
+		myObjects = Resources.LoadAll<GameObject> ("Tiles");
+		//^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+		while (numToSpawn > numSpawned) {
+			if (numToSpawn > numSpawned) 
+			{
+				SpawnRandomObject ();
+			} 
+		
+		
+		
+		
+
+		
+		}
+			if (numSpawned >= numToSpawn) {
+				CloseDoors ();
+				
+				
+			}
+		
+		
+		
+		
+		}
+		
+
+/*
 	void Update() 
 	{
 		if(PhotonNetwork.isMasterClient){
@@ -234,9 +267,12 @@ public class RandRoom : MonoBehaviour {
 			Globals.GetComponent<GlobalFunctions>().SpawnPlayer();
 			_spawned = true;
 		}
-		if (numSpawned >= numToSpawn) 
+		if (numSpawned >= numToSpawn) {
 			CloseDoors ();
+
 		
+		}
 	}
+*/
 
 }

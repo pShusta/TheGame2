@@ -172,6 +172,7 @@
      <Compile Include="Assets\Logan Stuffs\SampleAssets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\Logan Stuffs\SampleAssets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\Logan Stuffs\SampleAssets\Utility\WaypointProgressTracker.cs" />
+     <Compile Include="Assets\Logan Stuffs\Scripts\Control.cs" />
      <Compile Include="Assets\Logan Stuffs\Scripts\EnemyAI.cs" />
      <Compile Include="Assets\Logan Stuffs\Scripts\EnemyAttack.cs" />
      <Compile Include="Assets\Logan Stuffs\Scripts\MakeMap.cs" />
